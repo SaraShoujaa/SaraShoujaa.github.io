@@ -1,5 +1,6 @@
-# Sara Shoujaa
+# Sara Shoujaa 
 _Software Developer and Computer Science Masters student at AUB_ <br>
+
 
 [Email](mailto:sara.shoujaa.97@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sara-shoujaa-124399161) / [Twitter](https://twitter.com/sara_shoujaa) 
 
@@ -17,6 +18,8 @@ _Software Developer and Computer Science Masters student at AUB_ <br>
 - Contributed to launching the BDD Academy learning initiative registration in collaboration with Microsoft, GitHub, and LinkedIn for more than 1000 applications.
 - Created an internal Newsletter mailing service with replacing Mailchimp which decreased the mailing budget for handling emails across BDD community using Laravel, React.js, and AWS
 <br><br>
+
+## 📎 Additional Experience
 
 **Software Development Intern** @ [Ericsson](https://www.ericsson.com/) _(June 2019 - Dec 2019  )_ <br>
 - Installed a 3PP Management Project application for the Support team which provided automated management of contracts and inventories and applying access control security rules using C# and MySQL 
@@ -38,4 +41,11 @@ _Software Developer and Computer Science Masters student at AUB_ <br>
 
 **Bachelor's of Science** in Computer Science with Distinction<br>
 [Lebanese American University](https://www.lau.edu.lb/) - Beirut, Lebanon _(2017 - 2020)_
+<br><br>
 
+
+## 📄 Certificates
+
+**Introduction to Machine Learning** _Duke University Coursera 2021_
+
+**ICT Professional Foundation Program** _Ericsson 2019_
