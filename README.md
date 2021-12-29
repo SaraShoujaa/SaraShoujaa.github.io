@@ -1,5 +1,5 @@
 # Sara Shoujaa 
-_Software Developer and Computer Science Masters student at AUB_ <br>
+_Software Developer_ <br>
 
 
 [Email](mailto:sara.shoujaa.97@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sara-shoujaa-124399161) / [Twitter](https://twitter.com/sara_shoujaa) 
