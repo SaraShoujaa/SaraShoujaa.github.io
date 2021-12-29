@@ -3,7 +3,7 @@ _Software Developer and Computer Science Masters student at AUB_ <br>
 
 [Email](mailto:sara.shoujaa.97@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sara-shoujaa-124399161) / [Twitter](https://twitter.com/sara_shoujaa) 
 
-## :computer: Employment
+## 💻 Employment
 
 **Software Developer** @ [Ericsson](https://www.ericsson.com/) _(Jan 2021 - Present)_ <br>
 - Developed complex Restful APIs to store network and integration data generated from the IMK mobile endpoint used by more than 1000 field engineers and attracted more than 50 ASP companies.
@@ -31,7 +31,7 @@ _Software Developer and Computer Science Masters student at AUB_ <br>
 <br><br>
 
 
-## :mortar_board: Education
+## 🎓 Education
 
 **Master's of Science** in Computer Science<br>
 [American University of Beirut](https://www.aub.edu.lb/) - Beirut, Lebanon _(Spring 2022 - Present)_
