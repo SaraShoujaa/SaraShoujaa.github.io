@@ -1,5 +1,5 @@
 # Sara Shoujaa 
-_Software Developer_ <br>
+_Software Developer and Computer Science Graduate Student_ <br>
 
 
 [Email](mailto:sara.shoujaa.97@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sara-shoujaa-124399161) / [Twitter](https://twitter.com/sara_shoujaa) 
