@@ -43,13 +43,15 @@ _Software Developer_ <br>
 [Lebanese American University](https://www.lau.edu.lb/) - Beirut, Lebanon _(2017 - 2020)_
 <br><br>
 
+
 ## ⚙ Skills
+
 - **Programming Technologies:** Java, C, C#, MySQL, PHP, Python
 - **Web Tools and Frameworks:** React.js, JavaScript, jQuery, HTML/CSS, Laravel, .NET Framework
 - **Statistical Analysis:** R, Data Mining, Supervised Learning
 - **Version Control:** Git, GitHub
 - **Operating Systems:** Linux Ubuntu/Kali, Windows
-
+<br><br>
 
 
 ## 📄 Certificates
