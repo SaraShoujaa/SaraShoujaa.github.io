@@ -2,11 +2,11 @@
 _Software Developer and Computer Science Graduate Student_ <br>
 
 
-[Email](mailto:sara.shoujaa.97@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sara-shoujaa-124399161) / [Twitter](https://twitter.com/sara_shoujaa) 
+[Email](mailto:sara.shoujaa.97@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sara-shoujaa-124399161) / [Resume](https://drive.google.com/file/d/1KVZFioCWSXa-iphqy2cme3xzpsJD6BA7/view?usp=sharing) 
 
 ## 💻 Employment
 
-**Software Developer** @ [Ericsson](https://www.ericsson.com/) _(Jan 2021 - Present)_ <br>
+**Software Developer** @ [Ericsson](https://www.ericsson.com/) _(Jan 2021 - Jan 2022)_ <br>
 - Developed complex Restful APIs to store network and integration data generated from the IMK mobile endpoint used by more than 1000 field engineers and attracted more than 50 ASP companies.
 - Designed professional Dashboard with SSO authentication which displays quantitative representations and intelligent qualitative KPIs for monitoring IMK usage by engineers, baseband diagnostics and LMT site integrations that increased usage across more than 35 countries using .NET framework
 - Implemented an Admin interface which helped product owners manage users, operators and monitor logs created from baseband diagnostics that introduced 80% faster diagnosis of network and mobile issues
@@ -20,6 +20,10 @@ _Software Developer and Computer Science Graduate Student_ <br>
 <br><br>
 
 ## 📎 Additional Experience
+
+**Graduate Teaching Assistant** @ [American University of Beirut](https://www.aub.edu.lb/) _(Jan 2022 - Present  )_ <br>
+- Explained programming concepts during lab hours and guided students in writing efficient Java code for the courses “Algorithms and Data Structures” and “Intro to Object Oriented Programming”. 
+<br><br>
 
 **Software Development Intern** @ [Ericsson](https://www.ericsson.com/) _(June 2019 - Dec 2019  )_ <br>
 - Installed a 3PP Management Project application for the Support team which provided automated management of contracts and inventories and applying access control security rules using C# and MySQL 
