@@ -22,7 +22,7 @@ _Software Developer and Computer Science Graduate Student_ <br>
 ## 📎 Additional Experience
 
 **Graduate Teaching Assistant** @ [American University of Beirut](https://www.aub.edu.lb/) _(Jan 2022 - Present  )_ <br>
-- Explained programming concepts during lab hours and guided students in writing efficient Java code for the courses “Algorithms and Data Structures” and “Intro to Object Oriented Programming”. 
+- Teaching courses "Introduction to Programming" and "Intermediate Programming with Data Structures" at the undergraduate level
 <br><br>
 
 **Software Development Intern** @ [Ericsson](https://www.ericsson.com/) _(June 2019 - Dec 2019  )_ <br>
