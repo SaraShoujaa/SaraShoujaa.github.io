@@ -6,6 +6,10 @@ _Software Developer and Computer Science Graduate Student_ <br>
 
 ## 💻 Employment
 
+**Software Developer** @ [Monty Mobile](https://montymobile.com/) _(March 2022 - Present)_ <br>
+- Building and maintaining in-house software products managed by the VAS department.
+<br><br>
+
 **Software Developer** @ [Ericsson](https://www.ericsson.com/) _(Jan 2021 - Jan 2022)_ <br>
 - Developed complex Restful APIs to store network and integration data generated from the IMK mobile endpoint used by more than 1000 field engineers and attracted more than 50 ASP companies.
 - Designed professional Dashboard with SSO authentication which displays quantitative representations and intelligent qualitative KPIs for monitoring IMK usage by engineers, baseband diagnostics and LMT site integrations that increased usage across more than 35 countries using .NET framework
@@ -50,10 +54,10 @@ _Software Developer and Computer Science Graduate Student_ <br>
 
 ## ⚙ Skills
 
-- **Programming Technologies:** Java, C, C#, MySQL, PHP, Python
-- **Web Tools and Frameworks:** React.js, JavaScript, jQuery, HTML/CSS, Laravel, .NET Framework
+- **Programming Languages:** Java, C, C#, PHP, Python, HTML5/CSS, JavaScript
+- **Web Technologies:** React, Laravel, .NET
 - **Statistical Analysis:** R, Data Mining, Supervised Learning
-- **Version Control:** Git, GitHub
+- **Tools/Databases:** MySQL, PostgreSQL, Jira, Git, GitHub, GitLab
 - **Operating Systems:** Linux Ubuntu/Kali, Windows
 <br><br>
 
