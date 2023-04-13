@@ -2,31 +2,32 @@
 _Software Developer and Computer Science Graduate Student_ <br>
 
 
-[Email](mailto:sara.shoujaa.97@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sara-shoujaa-124399161) / [Resume](https://drive.google.com/file/d/1KVZFioCWSXa-iphqy2cme3xzpsJD6BA7/view?usp=sharing) 
+[Email](mailto:sara.shoujaa.97@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sara-shoujaa-124399161)  
 
 ## 💻 Employment
 
 **Software Developer** @ [Monty Mobile](https://montymobile.com/) _(March 2022 - Present)_ <br>
-- Building and maintaining in-house software products managed by the VAS department.
+•	Leveraged strong software building skills and expertise in Java to develop and maintain microservices for the VAS team, working on highly consumed services such as the SDP service for Etisalat and other in-house products, while ensuring scalability, reliability, and optimal performance.<br>
+• Integrated microservices with RabbitMQ, ensuring reliable messaging and communication between services and improving overall system efficiency.<br>
+•	Utilized Kubernetes to orchestrate microservices, improving scalability and facilitating deployment and management of services.
 <br><br>
 
 **Software Developer** @ [Ericsson](https://www.ericsson.com/) _(Jan 2021 - Jan 2022)_ <br>
-- Developed complex Restful APIs to store network and integration data generated from the IMK mobile endpoint used by more than 1000 field engineers and attracted more than 50 ASP companies.
-- Designed professional Dashboard with SSO authentication which displays quantitative representations and intelligent qualitative KPIs for monitoring IMK usage by engineers, baseband diagnostics and LMT site integrations that increased usage across more than 35 countries using .NET framework
-- Implemented an Admin interface which helped product owners manage users, operators and monitor logs created from baseband diagnostics that introduced 80% faster diagnosis of network and mobile issues
+•	Developed complex Restful APIs to store network and integration data generated from a mobile endpoint, which was used by more than 1000 field engineers and attracted more than 50 ASP companies.<br>
+•	Designed a professional Dashboard with SSO authentication, which displayed quantitative representations and intelligent qualitative KPIs for monitoring baseband diagnostics and LMT site integrations. The dashboard increased usage across more than 35 countries.<br>
+•	Implemented an Admin interface using Java, which helped product owners manage users and operators, and monitor logs created from baseband diagnostics. This interface introduced 80% faster diagnosis of network and mobile issues, improving overall system efficiency.
 <br><br>
 
 **Software Developer** @ [Beirut Digital District](https://beirutdigitaldistrict.com/) _(Mar 2020 - Dec 2020)_ <br>
-- Revamped a valet parking system for BDD app providing a reliable service for users in more than 90 companies achieving faster performance with low costs using Laravel, RESTful APIs, WebSocket, and FCM
-- Handled the maintenance and improvement of BDD website internally which lowered the cost of development by 100% which used to be hosted and handled by an external software company.
-- Contributed to launching the BDD Academy learning initiative registration in collaboration with Microsoft, GitHub, and LinkedIn for more than 1000 applications.
-- Created an internal Newsletter mailing service with replacing Mailchimp which decreased the mailing budget for handling emails across BDD community using Laravel, React.js, and AWS
+•	 Revamped a valet parking system for the BDD app, providing a reliable service for users in more than 90 companies. Achieved faster performance with low costs by utilizing Laravel, RESTful APIs, WebSocket, and FCM.<br>
+•	Handled the maintenance and improvement of the BDD website internally, which resulted in a 100% cost reduction compared to when it was hosted and handled by an external software company. Utilized expertise in web development and maintenance to ensure the website was always up-to-date and user-friendly.<br>
+•	Contributed to launching the BDD Academy learning initiative registration in collaboration with Microsoft, GitHub, and LinkedIn for more than 1000 applications while utilizing strong project management skills to ensure the project was completed on time and within budget.
 <br><br>
 
 ## 📎 Additional Experience
 
 **Graduate Teaching Assistant** @ [American University of Beirut](https://www.aub.edu.lb/) _(Jan 2022 - Present  )_ <br>
-- Teaching courses "Introduction to Programming" and "Intermediate Programming with Data Structures" at the undergraduate level
+- Teaching courses "Introduction to Programming", "Intermediate Programming with Data Structures", "Computer Networks" and "Software Engineering" at the undergraduate level
 <br><br>
 
 **Software Development Intern** @ [Ericsson](https://www.ericsson.com/) _(June 2019 - Dec 2019  )_ <br>
@@ -55,10 +56,11 @@ _Software Developer and Computer Science Graduate Student_ <br>
 ## ⚙ Skills
 
 - **Programming Languages:** Java, C, C#, PHP, Python, HTML5/CSS, JavaScript
-- **Web Technologies:** React, Laravel, .NET
+- **Web Technologies:** React, Laravel, .NET, Spring Boot
 - **Statistical Analysis:** R, Data Mining, Supervised Learning
 - **Tools/Databases:** MySQL, PostgreSQL, Jira, Git, GitHub, GitLab
-- **Operating Systems:** Linux Ubuntu/Kali, Windows
+- **Services**: Firebase, AWS, Azure, RabbitMQ, Kubernetes, Docker
+- **Operating Systems:** Linux Ubuntu/Kali, Windows, MacOS
 <br><br>
 
 
